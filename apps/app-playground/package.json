@@ -1,5 +1,6 @@
 {
 	"name": "@modrinth/app-playground",
+	"version": "v1.0.0",
 	"scripts": {
 		"build": "cargo build --release",
 		"lint": "cargo fmt --check && cargo clippy --all-targets",
